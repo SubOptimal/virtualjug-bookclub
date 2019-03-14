@@ -22,7 +22,7 @@ The aim of the list is to keep an overview about books proposed by https://virtu
 - Software craftsman (Sandro Mancuso)
 - The Complete Software developers's career guide (John Sonmez)
 
-== Design and Pattern
+== Design and Patterns
 
 - Clean Code (Robert C. Martin)
 - Computer newtorking: A top-Down approach (James Kurose, Keith Ross)
@@ -34,11 +34,12 @@ The aim of the list is to keep an overview about books proposed by https://virtu
 - High performance browser networking (Ilya Grigorik)
 - High performance web sites (Steve Sounders)
 - Patterns of enterprise application architecture (Martin Fowler)
-- Refactoring (Marinn Fowler)
+- Refactoring (Martin Fowler)
 - Refactoring to patters (Joshua Kerievsky)
 - Rest in practice (Jim Webber, Savas Parastatidis, Ian Robinson)
 - The little book of semaphores (Allen B. Downey)
 - Working effectively with Legacy Code (Michael Feathers)
+- Implementing domain driver design (Vaugh Vernon)
 
 == Development process
 
@@ -58,6 +59,10 @@ The aim of the list is to keep an overview about books proposed by https://virtu
 == Java
 
 - Mastering Java (Michael B. White)
+- Effective Java 3rd edition (Joshua Bloch)
+- Modern Java in Action: Lambdas, streams, functional and reactive programming (Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft)
+- Spring in Action 5th Edition (Craig Walls)
+- Spring Microservices in Action 1st Edition (John Carnell)
 
 == Software architecture
 
