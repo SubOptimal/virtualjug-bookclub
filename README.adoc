@@ -1,0 +1,77 @@
+= Virtual JUG - bookclub book list
+app version: v1.0
+:doctype: book
+:source-highlighter: pygments
+:toc-title: Overview
+:toc:
+:toclevels: 5
+:sectnumlevels: 5
+:numbered:
+:chapter-label:
+
+The aim of the list is to keep an overview about books proposed by https://virtualjug.com[Virtual Java User Group] members.
+
+== Computer science
+
+- Computer science distilled (Wladston Ferreira Filho)
+
+== Craftmanship & Career
+
+- Apprenticeship patterns (Dave Hooper, Adewale Oshineye)
+- Cracking the coding interview (Gayle Laakmann McDowell)
+- Software craftsman (Sandro Mancuso)
+- The Complete Software developers's career guide (John Sonmez)
+
+== Design and Pattern
+
+- Clean Code (Robert C. Martin)
+- Computer newtorking: A top-Down approach (James Kurose, Keith Ross)
+- Design rules, Vol 1.: The Power of Modularity
+- Design Patterns (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch)
+- Domain driven design (Eric Evans)
+- Enterprise integration patters (Gregor Hope, Bobby Woolf)
+- Head first Design patterns (Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra)
+- High performance browser networking (Ilya Grigorik)
+- High performance web sites (Steve Sounders)
+- Patterns of enterprise application architecture (Martin Fowler)
+- Refactoring (Marinn Fowler)
+- Refactoring to patters (Joshua Kerievsky)
+- Rest in practice (Jim Webber, Savas Parastatidis, Ian Robinson)
+- The little book of semaphores (Allen B. Downey)
+- Working effectively with Legacy Code (Michael Feathers)
+
+== Development process
+
+- Accelerate software performing technology (Nicole Forsgren, Jez Humple, Gene Kim)
+- Agile software development, principles, patterns and practices (Robert C. Martin)
+- Agile testing (Lisa Crispin)
+- A Practical Approach to Large-Scale Agile Development (Gary Gruver, Mike Young, Pat Fulghum)
+- Continuous integration (Paul M. Duvall, Steve Matyas, Andrew Glover)
+- Continuous Delivery (Jez Humple, David Farley)
+- DevOps handbook (Gene Kim, Jez Humle, Patrick Debois, John Willlis, John Allspaw)
+- How google tests software (James A. Whittaker, Jason Arbon, Jeff Carollo)
+- Project pheonix (Gene Kim, Kevin Behr, George Spafford)
+- Software Engineering (Ian Sommerville)
+- The art of unit testing (Roy Osherove)
+- The pragmatic programmer (Andrew Hunt, Davit Thomas)
+
+== Java
+
+- Mastering Java (Michael B. White)
+
+== Software architecture
+
+- Architecture for developers (Simon Brown)
+- Beyond software architecture (Luke Hohmann)
+- Building Evolutionary architectures (Patric Kua, NealFord, Rebecca Parsons)
+- Clean architecture (Robert C. Martin)
+- Just enough software architecture (George Fairbanks, David Garlan)
+- Software architecture in practice (Len Bass, Paul Clements, Rick Kazman)
+
+== Management
+
+- Dynamic of software development (Jim McCarthy)
+- Management information systems (Jane P. Laudon, Kenneth C. Laudon)
+- Management information systems (Raymoond McLeod)
+- Peopleware: productive projects and teams(Tom DeMarco)
+- The Mythical Man-Month (Frederick P. Brooks)
